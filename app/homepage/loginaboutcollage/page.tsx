@@ -6,6 +6,7 @@ export default function Layout({children}) {
     <div>
         <ul>
             <li><Link href="/homepage/loginaboutcollage"></Link></li>
+            
         </ul>
 
     </div>
